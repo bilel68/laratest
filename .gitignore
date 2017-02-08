@@ -7,7 +7,6 @@
 Homestead.json
 Homestead.yaml
 .env
-.env.example
 .gitattributes
 .gitignore
 composer.lock
